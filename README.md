@@ -1,6 +1,6 @@
-<h1 align="center">Curso Contruindo Páginas para a Internet com Bootstrap</h1>
+<h1 align="center">Meu Currículo Page</h1>
 
-<p align="center">Pasta com atividades realizadas durante o curso de bootstrap na DIO.</p>
+<p align="center">Page desenvolvida durante as atividades realizadas no curso de bootstrap na DIO. Aqui resolvi adaptar o que foi ensianado criando uma page responsiva contendo o meu currículo, tendo informações básicas sobre minha formação e conhecimento.</p>
 
 ### Status
 <h4 align="center"> 
@@ -8,7 +8,6 @@
 </h4>
 
 ### Pré-requisitos
-- Cadastro na [DIO](https://digitalinnovation.one/).
 - Um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 ### 🛠 Tecnologias
